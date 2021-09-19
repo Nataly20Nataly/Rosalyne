@@ -1,0 +1,21 @@
+@import "_variables";
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1700px,
+) !default;
+$font-family-sans-serif:'Heebo', sans-serif;
+$font-weight-base: 300;
+
+//Navbar
+$nav-link-font-size: 15px;
+$nav-link-font-weight: 400;
+$navbar-nav-link-padding-x: 0rem;
+$nav-link-padding-y: 0rem;
+$nav-link-padding-x: 0;
+$navbar-light-color: $black;
+$navbar-light-hover-color: none;
+
+//Banner
+$h1-font-size: 112px;
